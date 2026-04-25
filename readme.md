@@ -1,4 +1,42 @@
-# Medical Shop Management System
+# 💊 Medical Shop Management System
+
+A desktop-based application built using Python and Tkinter to manage medical shop operations efficiently.
+
+---
+
+## 🚀 Features
+
+- Add and manage medicines
+- Smart search (partial name search)
+- Generate bills with real-time calculation
+- PDF bill generation
+- Inventory management
+- Low stock alerts
+- Expiry alerts
+- Sales reports and analysis
+
+---
+
+## 🛠️ Tech Stack
+
+- Python
+- Tkinter
+- SQLite
+- Pandas
+- ReportLab
+
+---
+
+## ▶️ How to Run
+
+pip install -r requirements.txt  
+python ui/main_ui.py  
+
+---
+
+## 👨‍💻 Author
+
+Sai Manoj Reddy# Medical Shop Management System
 
 ## Features
 - Inventory Management
