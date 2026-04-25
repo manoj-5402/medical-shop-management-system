@@ -60,3 +60,10 @@ Sai Manoj Reddy# Medical Shop Management System
 - SQLite
 - Pandas
 - ReportLab
+
+## 📸 Screenshots
+
+![Main UI](screenshots/main_ui.png)
+![Billing](screenshots/billing.png)
+![Add Medicine](screenshots/add_medicine.png)
+![Reports](screenshots/reports.png)
